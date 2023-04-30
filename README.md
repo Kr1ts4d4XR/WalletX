@@ -7,10 +7,10 @@ Requirements 📋
 🟢 Web3.js
 
 Installation 🛠️
-1️⃣ Clone or download the repository.
-2️⃣ Install dependencies by running npm install.
-3️⃣ Create a new file named wallet.json.
-4️⃣ Run the program using node index.js.
+- Clone or download the repository.
+- Install dependencies by running npm install.
+- Create a new file named wallet.json.
+- Run the program using node index.js.
 
 Usage 📝
 The program accepts the following commands:
