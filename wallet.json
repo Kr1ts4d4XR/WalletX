@@ -1,0 +1,17 @@
+[
+  {
+    "name": "WalletX01",
+    "address": "0x0D63269b65826C8C7cE37113f6e0883fD021D619",
+    "privateKey": "0x7a7ac7c133cd23037b59b6b573c032bef1b2c0ecc8b92a3d4a944c07d64e5cda"
+  },
+  {
+    "name": "WalletX02",
+    "address": "0x840959D9484794D80F2b98c53a19bD73f2761956",
+    "privateKey": "0x71b5633bde366242aa6ac60d61d4fb3f2dd74b846e66c3d05f155dac5daa89c0"
+  },
+  {
+    "name": "WalletX",
+    "address": "0x5c7787e9612bB9810733958B8Ca888B690c69E07",
+    "privateKey": "0x76b2720c81e93c18fcc7a2f639e389b93ae80f32dd8468fbe32ad14573af7a6b"
+  }
+]
